@@ -282,7 +282,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 008e4c9d-4c75-4de3-a097-957a178bbc01)
-    (at 393.592 214.289)
+    (at 201.992 27.46)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -354,7 +354,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 00df5546-077c-4868-b444-60c6e6d21637)
-    (at 299.332 249.414)
+    (at 207.01 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -423,7 +423,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 02659f7f-4e1a-4655-a92c-e4299e62d551)
-    (at 339.732 269.614)
+    (at 54.61 201.549)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -492,7 +492,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 0424cdd4-ebbc-461d-9c68-431f624092f7)
-    (at 299.332 390.814)
+    (at 378.46 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -561,7 +561,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 0491190a-f132-4559-927b-82e5495570ac)
-    (at 339.732 310.014)
+    (at 226.06 201.549)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -630,7 +630,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 060b64e1-08d6-4f9f-8b1a-6260673104ab)
-    (at 319.532 370.614)
+    (at 226.06 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -699,7 +699,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 06e1dbd1-a452-4249-8897-9c72f5e619fb)
-    (at 370.412 244.439)
+    (at 178.812 57.61)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -771,7 +771,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 0885a179-4622-4b85-a3a1-38b8d502ad91)
-    (at 258.932 330.214)
+    (at 130.81 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -909,7 +909,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 08b2f16b-4ec3-4598-859e-6d2d7a66e6ef)
-    (at 370.412 224.339)
+    (at 178.812 37.51)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -981,7 +981,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 09baf55b-8398-46a0-b375-0d0bb6a4ee91)
-    (at 399.387 244.439)
+    (at 207.787 57.61)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -1053,7 +1053,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB" (layer "F.Cu")
     (tstamp 0b87b25e-6039-4f93-8ff7-c12f3d4ded9e)
-    (at 389.657 190.094)
+    (at 292.735 163.449)
     (descr "Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 2.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -1126,7 +1126,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 0b9aaecf-bc88-4c48-b808-07a2a7818407)
-    (at 370.412 217.639)
+    (at 178.812 30.81)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -1267,7 +1267,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 0c8cdac3-5dd1-494f-ab5d-10851be9f51a)
-    (at 370.412 234.389)
+    (at 178.812 47.56)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -1339,7 +1339,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 0d7feca8-003c-4769-a71f-5d6b71b65eb7)
-    (at 238.732 209.014)
+    (at 111.76 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -1477,7 +1477,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 0f349b00-ebca-4543-92be-9fc8416a2f2e)
-    (at 376.207 237.739)
+    (at 184.607 50.91)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -1549,7 +1549,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 0fa85e86-8083-44de-9599-1d2fd9b3a0bf)
-    (at 238.732 289.814)
+    (at 187.96 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -1618,7 +1618,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 0fc0a236-7b03-4789-bf7e-aa9cc195d1bc)
-    (at 405.182 217.639)
+    (at 213.582 30.81)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -1897,7 +1897,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 112f260c-f463-46c2-878e-694203e541a8)
-    (at 410.977 227.689)
+    (at 219.377 40.86)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -1969,7 +1969,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 115ea6ed-dc41-46af-8df6-c1f5928d91b9)
-    (at 382.002 214.289)
+    (at 190.402 27.46)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2041,7 +2041,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 11c09398-b39f-46c0-aa76-155eb0a81afe)
-    (at 393.592 227.689)
+    (at 201.992 40.86)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2113,7 +2113,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 13128a04-ae35-4329-a3af-ad303a737760)
-    (at 376.207 210.939)
+    (at 184.607 24.11)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2185,7 +2185,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 144de447-4983-4da3-9dff-093168a4d82a)
-    (at 376.207 247.789)
+    (at 184.607 60.96)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2257,7 +2257,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 14866e4b-6ef2-43ad-bc50-fa1b985dbbbf)
-    (at 238.732 148.414)
+    (at 54.61 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2326,7 +2326,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 14ae0520-4228-4df1-a022-ed819ac1600a)
-    (at 399.387 214.289)
+    (at 207.787 27.46)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2398,7 +2398,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 153b4a0f-7cff-4d9e-966c-72b44ed85b00)
-    (at 410.977 234.389)
+    (at 219.377 47.56)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2470,7 +2470,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 16ac8ecb-ee62-46a9-9773-74c6475b0f78)
-    (at 410.977 241.089)
+    (at 219.377 54.26)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2611,7 +2611,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 177c0d33-ed4a-4063-87fa-789b1523be6a)
-    (at 382.002 237.739)
+    (at 190.402 50.91)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2683,7 +2683,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 17c3fc27-2f0d-4c2f-b78c-526b5ba38170)
-    (at 399.387 237.739)
+    (at 207.787 50.91)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2755,7 +2755,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 17ea58b2-2bbd-4eb2-81c0-55373c1b5ba3)
-    (at 299.332 370.614)
+    (at 359.41 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2824,7 +2824,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 1980becd-70ce-4233-9f61-ec084bee9bf8)
-    (at 370.412 207.589)
+    (at 42.544 92.583)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2896,7 +2896,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 1a01b77e-8871-41ed-8b71-1e3f255cc0f8)
-    (at 359.932 229.214)
+    (at 397.51 201.549)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2965,7 +2965,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 1a129f22-454a-4724-bceb-04d4774249b7)
-    (at 359.932 209.014)
+    (at 378.46 201.549)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3034,7 +3034,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 1bf5c90e-1892-4d0b-838b-dad912a99c29)
-    (at 339.464 144.399)
+    (at 302.26 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3103,7 +3103,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 1c7bad6a-882c-4667-b676-2e84d0c3311c)
-    (at 339.732 370.614)
+    (at 283.21 201.549)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3172,7 +3172,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 1e091af0-6489-450d-a054-e57c3149cc14)
-    (at 358.521 144.399)
+    (at 321.31 201.549)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3241,7 +3241,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 21aa887d-23c1-4e9b-be4e-1cd40bfcd16b)
-    (at 387.797 244.439)
+    (at 196.197 57.61)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3313,7 +3313,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 21c6806b-9bb2-4325-a8fb-81ed6b03dd30)
-    (at 399.387 210.939)
+    (at 207.787 24.11)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3385,7 +3385,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 222e04a4-7ead-4478-8412-d90f2b46adb6)
-    (at 410.977 244.439)
+    (at 219.377 57.61)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3457,7 +3457,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 2379d69f-ca63-4e4b-9544-eb237d587448)
-    (at 405.182 207.589)
+    (at 213.582 20.76)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3529,7 +3529,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 23f18064-b728-455c-8449-99dcca950062)
-    (at 393.592 207.589)
+    (at 201.992 20.76)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3601,7 +3601,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 26e16ffb-afdf-4534-a8b5-0aee8216c841)
-    (at 399.387 231.039)
+    (at 207.787 44.21)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3673,7 +3673,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 2753c15d-ff63-4b23-afb9-0d1f0785c194)
-    (at 279.132 148.414)
+    (at 207.01 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3742,7 +3742,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 299be93a-6823-4f1a-9f97-aa10f141e24d)
-    (at 370.412 214.289)
+    (at 178.812 27.46)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3814,7 +3814,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 2c0e76f4-72a7-4f8a-b462-7cf3d6602312)
-    (at 258.932 168.614)
+    (at 359.41 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3883,7 +3883,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 2d96ceab-fcbf-4de9-89e1-b5f35135a276)
-    (at 339.732 229.214)
+    (at 397.51 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3952,7 +3952,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 3066a549-3fb8-46f0-8f9c-9fdc40e4839f)
-    (at 387.797 224.339)
+    (at 196.197 37.51)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4024,7 +4024,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 31afe6a0-401a-4ceb-8bc5-e3aae000b9a1)
-    (at 387.797 241.089)
+    (at 196.197 54.26)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4094,11 +4094,11 @@
     )
   )
 
-  (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
+  (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB" (layer "F.Cu")
     (tstamp 324cb8ab-e59f-4cc7-8d67-17736605a1f6)
-    (at 319.532 390.814)
-    (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
-    (tags "Cherry MX keyswitch 1.00u PCB")
+    (at 254.635 182.499)
+    (descr "Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
+    (tags "Cherry MX keyswitch 2.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -4107,56 +4107,60 @@
     (attr through_hole)
     (fp_text reference "SW111" (at -2.54 -2.794) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 2fbbf781-ad7c-4167-b459-18273abd14b2)
+      (tstamp fc0701fb-375a-4e42-804c-f24c97c10324)
     )
     (fp_text value "SW_Push" (at -2.54 12.954) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b4a7837f-1dfa-45d9-8477-36afec5d3dc6)
+      (tstamp dd57e1fc-f38c-4dda-ba89-f9ee2dbb2296)
     )
     (fp_text user "${REFERENCE}" (at -2.54 -2.794) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 891bb2f8-5cac-4858-8363-e7b9a21a59a3)
+      (tstamp c25123bc-6adf-4a39-9abb-87cff67cb199)
     )
     (fp_line (start -9.525 -1.905) (end 4.445 -1.905)
-      (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 92f7c8b6-f9b3-400c-8d93-6dbbb84e12ce))
+      (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 62853fc1-e117-4f51-877f-1d99713f26c8))
     (fp_line (start -9.525 12.065) (end -9.525 -1.905)
-      (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp c155d834-7516-472c-87f8-b599939601d1))
+      (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp e424e8ed-4397-4a98-bfb5-132cf8732ef7))
     (fp_line (start 4.445 -1.905) (end 4.445 12.065)
-      (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp a3f64a7d-ff9b-4d67-8a44-0b40bb35df62))
+      (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 0c92bee7-fcd2-498d-b067-7968e8a01601))
     (fp_line (start 4.445 12.065) (end -9.525 12.065)
-      (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 15227b5b-64f6-404b-810f-a5b7630f1ec7))
-    (fp_line (start -12.065 -4.445) (end 6.985 -4.445)
-      (stroke (width 0.15) (type solid)) (layer "Dwgs.User") (tstamp e5cc528d-11b3-4d26-8085-6755b14fdd9c))
-    (fp_line (start -12.065 14.605) (end -12.065 -4.445)
-      (stroke (width 0.15) (type solid)) (layer "Dwgs.User") (tstamp a42f044a-09cb-453b-a825-134ddc77734d))
-    (fp_line (start 6.985 -4.445) (end 6.985 14.605)
-      (stroke (width 0.15) (type solid)) (layer "Dwgs.User") (tstamp ca2d714b-8f60-446f-9450-4fcfd8946b01))
-    (fp_line (start 6.985 14.605) (end -12.065 14.605)
-      (stroke (width 0.15) (type solid)) (layer "Dwgs.User") (tstamp b99ca556-31f7-46b7-a89a-d91c35df68f3))
+      (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 8e56adc9-1293-4a65-af60-75397f259a54))
+    (fp_line (start -21.59 -4.445) (end 16.51 -4.445)
+      (stroke (width 0.15) (type solid)) (layer "Dwgs.User") (tstamp 9a7e47d4-4026-4321-9060-65dcb71cbd93))
+    (fp_line (start -21.59 14.605) (end -21.59 -4.445)
+      (stroke (width 0.15) (type solid)) (layer "Dwgs.User") (tstamp e56cde0b-4304-4926-b5a7-a02225ea0a72))
+    (fp_line (start 16.51 -4.445) (end 16.51 14.605)
+      (stroke (width 0.15) (type solid)) (layer "Dwgs.User") (tstamp ebe7d720-bbe5-4aee-9111-e8143c64874b))
+    (fp_line (start 16.51 14.605) (end -21.59 14.605)
+      (stroke (width 0.15) (type solid)) (layer "Dwgs.User") (tstamp 44c2ff6a-da2d-4e9d-959c-387ebb3e6db6))
     (fp_line (start -9.14 -1.52) (end 4.06 -1.52)
-      (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp c7209c01-19a6-429a-9fcd-f7173d39e64f))
+      (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 003811b0-c5b1-40f5-b539-7c84582a88eb))
     (fp_line (start -9.14 11.68) (end -9.14 -1.52)
-      (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 5c0b5126-df88-4393-8564-602b2a194350))
+      (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp cb681d58-d265-452e-85ba-3ae2a427dfb6))
     (fp_line (start 4.06 -1.52) (end 4.06 11.68)
-      (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp a58e3b7e-3e92-4933-9337-c6fa8cb452ea))
+      (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp d7cf244e-0eb1-4592-ad22-af592caf3976))
     (fp_line (start 4.06 11.68) (end -9.14 11.68)
-      (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp a5042e60-8607-454a-885c-420434acfb63))
+      (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp b7924d3e-17fe-416e-b276-ea51e3d6339c))
     (fp_line (start -8.89 -1.27) (end 3.81 -1.27)
-      (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 74561c76-a912-4e2a-bd27-219683b98b17))
+      (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp a74a0d52-68a2-4618-a102-856d03329145))
     (fp_line (start -8.89 11.43) (end -8.89 -1.27)
-      (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp a6554a93-d458-44f7-beb2-74cdf5d1573d))
+      (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp deab9d5f-f414-4053-a0fc-eacb29dbb95e))
     (fp_line (start 3.81 -1.27) (end 3.81 11.43)
-      (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 272edecd-bced-45b2-b6f5-5e6f031eaf6a))
+      (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp aaedcb63-adc2-4f31-801e-279c96fd3e50))
     (fp_line (start 3.81 11.43) (end -8.89 11.43)
-      (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 942b948b-5014-40df-b43b-47e672aee941))
-    (pad "" np_thru_hole circle (at -7.62 5.08) (size 1.7 1.7) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp 2c7c26c2-b55c-45d8-a807-6763c6b533ac))
-    (pad "" np_thru_hole circle (at -2.54 5.08) (size 4 4) (drill 4) (layers "*.Cu" "*.Mask") (tstamp 7e9a19cb-af2b-47a2-b398-9e2f2e3dcf47))
-    (pad "" np_thru_hole circle (at 2.54 5.08) (size 1.7 1.7) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp 552aa1e6-a0c0-4573-870a-78d1a7c382c0))
+      (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 922486c4-33e6-47ab-8b93-10f20cfdd7c9))
+    (pad "" np_thru_hole circle (at -14.44 -1.92) (size 3.05 3.05) (drill 3.05) (layers "*.Cu" "*.Mask") (tstamp dc747d20-ebce-4a7c-a2e9-8c17f2639b3d))
+    (pad "" np_thru_hole circle (at -14.44 13.32) (size 4 4) (drill 4) (layers "*.Cu" "*.Mask") (tstamp d261d51e-a65a-49a8-8cba-93e7f508fec7))
+    (pad "" np_thru_hole circle (at -7.62 5.08) (size 1.7 1.7) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp c32327d1-9e32-4a2d-bd72-e63ce5243902))
+    (pad "" np_thru_hole circle (at -2.54 5.08) (size 4 4) (drill 4) (layers "*.Cu" "*.Mask") (tstamp 343ac6cf-345e-42d8-ad27-56c3ccb9f0e3))
+    (pad "" np_thru_hole circle (at 2.54 5.08) (size 1.7 1.7) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp 39386a10-1041-4e69-a51c-1b223fa15000))
+    (pad "" np_thru_hole circle (at 9.36 -1.92) (size 3.05 3.05) (drill 3.05) (layers "*.Cu" "*.Mask") (tstamp 26c2ac6f-87f9-40aa-a7c4-a5b5fd36b00c))
+    (pad "" np_thru_hole circle (at 9.36 13.32) (size 4 4) (drill 4) (layers "*.Cu" "*.Mask") (tstamp 16165455-5ee1-451d-b9c5-0371a40bc04b))
     (pad "1" thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.5) (layers "*.Cu" "*.Mask")
-      (net 160 "Net-(D116-A)") (pinfunction "1") (pintype "passive") (tstamp 4b255d7f-3b63-4ece-873e-75c24915a580))
+      (net 160 "Net-(D116-A)") (pinfunction "1") (pintype "passive") (tstamp 5b1f05d2-775d-409d-ab6f-be559323187c))
     (pad "2" thru_hole circle (at -6.35 2.54) (size 2.2 2.2) (drill 1.5) (layers "*.Cu" "*.Mask")
-      (net 186 "COL_6") (pinfunction "2") (pintype "passive") (tstamp 0d497b2e-2768-4c2d-bea0-9072025f7a5a))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl"
+      (net 186 "COL_6") (pinfunction "2") (pintype "passive") (tstamp e64312f6-9047-4af7-b4ca-e0150da52045))
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_2.00u_PCB.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4165,7 +4169,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 3280b6d8-d8df-4383-bbca-5599893beb73)
-    (at 218.532 289.814)
+    (at 321.31 106.299)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4234,7 +4238,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 330abb6b-b9ab-407a-bed7-2558f256df2b)
-    (at 405.182 247.789)
+    (at 213.582 60.96)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4375,7 +4379,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 3724223c-c34f-4f6a-b304-d45079453518)
-    (at 218.532 269.614)
+    (at 302.26 106.299)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4444,7 +4448,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 376ae088-0b66-4092-9ac4-a5570ba05fa5)
-    (at 387.797 210.939)
+    (at 196.197 24.11)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4516,7 +4520,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 3922458b-379d-479a-96b6-6f7cb92b295a)
-    (at 370.412 227.689)
+    (at 178.812 40.86)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4588,7 +4592,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 3955955a-3363-41ea-8ca1-34ccdba06050)
-    (at 238.732 249.414)
+    (at 149.86 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4657,7 +4661,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 39735bc5-950b-4a75-b905-772fc413bb75)
-    (at 410.977 251.139)
+    (at 219.377 64.31)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4729,7 +4733,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 3bc4962e-cb29-44e1-a65e-446b12f20d49)
-    (at 376.207 207.589)
+    (at 184.607 20.76)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4801,7 +4805,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 3daa8934-b8bf-4f72-8396-e18e08bc8f90)
-    (at 258.932 350.414)
+    (at 149.86 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4870,7 +4874,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 3f1ce4c1-c6b2-4f53-8f57-7a989c7d021b)
-    (at 279.132 229.214)
+    (at 321.31 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4939,7 +4943,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 41320268-2d69-4394-9b76-6ac1e458eb19)
-    (at 376.207 227.689)
+    (at 184.607 40.86)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -5011,7 +5015,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 428048bd-992d-4717-a94f-c65d44123227)
-    (at 393.592 231.039)
+    (at 201.992 44.21)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -5083,7 +5087,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 43b2fc34-82fd-4491-b4e0-e8af92f90563)
-    (at 393.592 234.389)
+    (at 201.992 47.56)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -5155,7 +5159,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 44c53d78-9edb-4b47-ab7d-aa361a3779cb)
-    (at 370.412 241.089)
+    (at 178.812 54.26)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -5227,7 +5231,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 44f662a6-d75a-4eba-a575-ba16bb6cec33)
-    (at 238.732 350.414)
+    (at 245.11 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -5365,7 +5369,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 45a60799-fbea-4943-9012-59ea307ed429)
-    (at 279.132 168.614)
+    (at 226.06 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -5434,7 +5438,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 46883a3a-69e7-476a-8142-810adf6febbf)
-    (at 319.532 249.414)
+    (at 111.76 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -5503,7 +5507,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 46c0bfd3-fe70-4705-9d73-0aa88b9e669d)
-    (at 382.002 217.639)
+    (at 190.402 30.81)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -5644,7 +5648,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 496a2052-6511-4c36-86aa-3f9d026fddf8)
-    (at 218.532 350.414)
+    (at 378.46 106.299)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -5713,7 +5717,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 498e0c0e-c259-4b11-93ec-1d26fdc155da)
-    (at 370.412 237.739)
+    (at 178.812 50.91)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -5785,7 +5789,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 49fa4ab3-2ea5-460e-874a-74ba68118f31)
-    (at 299.332 310.014)
+    (at 264.16 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -5854,7 +5858,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 4baed88b-7622-4feb-9a51-017e1d62e99c)
-    (at 387.797 207.589)
+    (at 196.197 20.76)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -5926,7 +5930,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 4cc62435-b82c-4054-a5de-6489ef1f12fc)
-    (at 319.532 330.214)
+    (at 187.96 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -5995,7 +5999,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 4d632ca7-52cb-4818-be5d-3dd6432fee08)
-    (at 339.732 289.814)
+    (at 73.66 201.549)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -6064,7 +6068,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 50aa4410-f7a8-43a6-872a-4cf446307347)
-    (at 218.532 249.414)
+    (at 283.21 106.292)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -6133,7 +6137,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 5116a9e5-6839-4264-a435-db93cca11806)
-    (at 387.797 234.389)
+    (at 196.197 47.56)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -6205,7 +6209,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 5285320e-7dd6-41c6-95f6-c9a63af4fb01)
-    (at 258.932 209.014)
+    (at 397.51 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -6274,7 +6278,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 53036c3a-ac30-45a9-9b90-7e67f8a8ccc9)
-    (at 393.592 220.989)
+    (at 201.992 34.16)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -6346,7 +6350,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 53325eeb-c163-49bc-ae25-bbcde2d68316)
-    (at 279.132 188.814)
+    (at 245.11 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -6415,7 +6419,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 534bc3b0-772a-4124-8ef5-732af7a40043)
-    (at 410.977 224.339)
+    (at 219.377 37.51)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -6487,7 +6491,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 5430c978-700c-4c7d-a455-6bb48a98f2ef)
-    (at 393.592 224.339)
+    (at 201.992 37.51)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -6559,7 +6563,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 54b69fdc-c666-4ca7-bed8-31b5504e8281)
-    (at 405.182 214.289)
+    (at 213.582 27.46)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -6631,7 +6635,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 54b9bdd2-da7a-4bf3-9d12-8d4970b5c88e)
-    (at 299.332 209.014)
+    (at 168.91 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -6700,7 +6704,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB" (layer "F.Cu")
     (tstamp 5576ca72-51c0-467a-8359-895e4f0b9ee7)
-    (at 228.13825 411.014)
+    (at 149.86 201.549)
     (descr "Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 6.25u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -6773,7 +6777,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 5727b1df-1bc2-4992-96e0-e783c366bd69)
-    (at 279.132 370.614)
+    (at 73.66 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -6842,7 +6846,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 57cc15c9-78ec-4df4-8f4b-8cc8c498cf21)
-    (at 382.002 224.339)
+    (at 190.402 37.51)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7052,7 +7056,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 59cb1078-11f1-4475-8463-ac3888627b11)
-    (at 393.592 251.139)
+    (at 201.992 64.31)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7124,7 +7128,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 5c53e1a6-ce5d-4cec-995f-d5f0bf869818)
-    (at 319.532 289.814)
+    (at 149.86 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7193,7 +7197,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 5de24f19-13e1-4a5d-a588-0480456eec29)
-    (at 405.182 231.039)
+    (at 213.582 44.21)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7265,7 +7269,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 5e91ac27-d1e3-42e9-bf9f-63c43fbc9916)
-    (at 319.532 209.014)
+    (at 73.66 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7334,7 +7338,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 5f66afe8-6a5e-4f6d-8826-83691596d24b)
-    (at 299.332 188.814)
+    (at 149.86 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7403,7 +7407,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 5f95efb0-8012-4ce9-95d4-8695a57e43f4)
-    (at 393.592 217.639)
+    (at 201.992 30.81)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7475,7 +7479,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 60ea1130-0318-4a55-8c5c-ad33697e7bf5)
-    (at 339.732 249.414)
+    (at 35.56 201.549)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7544,7 +7548,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 615f75d1-868a-4f5d-8892-91b73114bd6f)
-    (at 299.332 229.214)
+    (at 187.96 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7613,7 +7617,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 634e6db4-43a2-4d31-bbe4-a2e49fcb0a24)
-    (at 399.387 220.989)
+    (at 207.787 34.16)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7754,7 +7758,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 662f30f9-eb48-4f60-a5f2-0ecf37ffa203)
-    (at 410.977 231.039)
+    (at 219.377 44.21)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7826,7 +7830,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 66664b5c-a047-4cd0-bf25-8438e8c0ac27)
-    (at 410.977 220.989)
+    (at 219.377 34.16)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7898,7 +7902,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 66a41806-006a-4cf0-af20-8e1ae7606c7e)
-    (at 339.732 330.214)
+    (at 245.11 201.549)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7967,7 +7971,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 67ecbe42-8339-4581-8c8c-f499056ca47f)
-    (at 279.132 209.014)
+    (at 264.16 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -8036,7 +8040,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 6abf3006-d331-4e28-a464-186a2d2779dc)
-    (at 405.182 251.139)
+    (at 213.582 64.31)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -8177,7 +8181,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 6ff0449f-2d1d-4d88-a1b2-6e2e3702bd96)
-    (at 279.132 330.214)
+    (at 35.56 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -8246,7 +8250,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 6ffd5184-7287-4ce1-a4ea-847bcacf2919)
-    (at 279.132 350.414)
+    (at 54.61 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -8315,7 +8319,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 716180c4-8ddb-4ba4-bc87-8e476ec99425)
-    (at 399.387 234.389)
+    (at 207.787 47.56)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -8387,7 +8391,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 71a8f7f3-15ce-478a-b175-b401e2a59e17)
-    (at 218.532 209.014)
+    (at 245.11 106.299)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -8456,7 +8460,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 762689be-61b0-4a30-8827-68b0686520c8)
-    (at 382.002 207.589)
+    (at 190.402 20.76)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -8528,7 +8532,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 766e2c79-00cf-4781-b863-ea2acc3b0d0d)
-    (at 370.412 231.039)
+    (at 178.812 44.21)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -8600,7 +8604,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 775788b8-38b5-4976-bfb4-fc1f23f41caf)
-    (at 279.132 310.014)
+    (at 397.51 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -8738,7 +8742,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 79f461c6-1dc9-48c4-bb90-96e4b0656833)
-    (at 393.592 244.439)
+    (at 201.992 57.61)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -8810,7 +8814,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 7a3fafab-f212-423d-8a89-8a04c42106f2)
-    (at 382.002 247.789)
+    (at 190.402 60.96)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -8882,7 +8886,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 7bec05a4-f0aa-4dd8-8205-ed7d2906fcd3)
-    (at 279.132 289.814)
+    (at 378.46 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -8951,7 +8955,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 7c2e01cd-5170-4639-a108-049407fecddc)
-    (at 299.332 148.414)
+    (at 111.76 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9020,7 +9024,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 7e54e646-1156-4be4-b871-788415d3356e)
-    (at 416.772 227.689)
+    (at 225.172 40.86)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9092,7 +9096,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 7fd6b480-b48f-4078-95c7-08a4c7c6049b)
-    (at 416.772 241.089)
+    (at 225.172 54.26)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9164,7 +9168,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 84a3f80a-05ce-4d70-aeda-76ed546ec95c)
-    (at 319.532 188.814)
+    (at 54.61 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9233,7 +9237,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 85aa61d1-b574-48bf-b404-f0b266d68301)
-    (at 382.002 227.689)
+    (at 190.402 40.86)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9305,7 +9309,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 85f9d905-ad60-423c-9182-8b6c7566d709)
-    (at 258.932 390.814)
+    (at 187.96 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9374,7 +9378,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 87fad783-049d-43fd-9e19-17fbe204c68d)
-    (at 387.797 220.989)
+    (at 196.197 34.16)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9446,7 +9450,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 8c4fc2a6-68fa-4554-83ba-4705efb48542)
-    (at 258.932 370.614)
+    (at 168.91 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9515,7 +9519,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 8c6b8741-be24-4d04-afa4-d97d52a5e85f)
-    (at 376.207 217.639)
+    (at 184.607 30.81)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9587,7 +9591,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 8ca1cd64-473c-4dc5-83ce-fa4590315506)
-    (at 387.797 217.639)
+    (at 196.197 30.81)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9659,7 +9663,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 8cd7760b-f4a2-4ec3-a51f-a516acdc946d)
-    (at 387.797 247.789)
+    (at 196.197 60.96)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9800,7 +9804,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 8f8066de-240b-4edb-9d30-e9e3492a2c8f)
-    (at 279.132 249.414)
+    (at 340.36 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9869,7 +9873,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 90be4d66-15b6-4166-9e57-d4de0d1d92a8)
-    (at 319.532 168.614)
+    (at 35.56 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9938,7 +9942,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 9139f8da-b9ac-4742-8645-83ca9c9bd526)
-    (at 382.002 251.139)
+    (at 190.402 64.31)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10010,7 +10014,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 92491d2c-459f-4faf-85f4-ad3b0e4041fc)
-    (at 416.772 207.589)
+    (at 225.172 20.76)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10082,7 +10086,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 966b7eb8-b873-4e38-884d-6e94e7c5cc84)
-    (at 218.532 390.814)
+    (at 35.56 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10151,7 +10155,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 96af0a94-c8c3-46f5-8034-752fc0b8ae77)
-    (at 238.732 188.814)
+    (at 92.71 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10220,7 +10224,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 973b1f19-fb46-49f6-9913-7d9d53471334)
-    (at 376.207 251.139)
+    (at 184.607 64.31)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10361,7 +10365,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 98d90927-2d10-4ee5-8c88-a078244a806b)
-    (at 393.592 237.739)
+    (at 201.992 50.91)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10433,7 +10437,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 9d0cf930-469a-4dbc-9a0b-03a45d9a6be7)
-    (at 399.387 207.589)
+    (at 207.787 20.76)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10505,7 +10509,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 9efd1a0a-68e3-4641-8ae8-62e78ab28f49)
-    (at 258.932 148.414)
+    (at 340.36 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10574,7 +10578,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp 9f668afa-0380-4043-918c-0d0fa79301e3)
-    (at 218.532 310.014)
+    (at 340.36 106.299)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10643,7 +10647,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a04f402a-4918-4c0f-8694-5948d3a384cf)
-    (at 410.977 237.739)
+    (at 219.377 50.91)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10715,7 +10719,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a11d872c-7ec1-414e-9a1e-48d4bbcbb471)
-    (at 393.592 241.089)
+    (at 201.992 54.26)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10787,7 +10791,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a2212e5d-7b19-4fe1-a244-feae38a612aa)
-    (at 382.002 231.039)
+    (at 190.402 44.21)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10859,7 +10863,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a2857d4d-670d-428b-945d-11f2cace99fc)
-    (at 416.772 247.789)
+    (at 225.172 60.96)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10931,7 +10935,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a2d72219-e16e-4053-9c32-b2a9761c87ae)
-    (at 416.772 217.639)
+    (at 225.172 30.81)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11003,7 +11007,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a2eea1c0-1fdd-474c-86c7-40d1631673fb)
-    (at 416.772 234.389)
+    (at 225.172 47.56)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11075,7 +11079,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp a49a1737-5b82-43e7-b180-246cd78633a9)
-    (at 359.932 188.814)
+    (at 359.41 201.549)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11144,7 +11148,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp a5b42e89-6818-44eb-b17a-f696e5340b56)
-    (at 339.732 168.614)
+    (at 340.36 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11213,7 +11217,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp a60a0cbd-72d0-430c-b0d1-27466eaa6a52)
-    (at 238.732 330.214)
+    (at 226.06 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11282,7 +11286,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp a644ad1d-55fa-4318-9f81-fc510bebad30)
-    (at 299.332 289.814)
+    (at 245.11 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11351,7 +11355,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a8fd1559-5ff6-497a-a030-822330e7849d)
-    (at 376.207 234.389)
+    (at 184.607 47.56)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11423,7 +11427,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a91cfd29-202c-46ef-962a-aaa5d0cc6caa)
-    (at 387.797 214.289)
+    (at 196.197 27.46)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11495,7 +11499,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp aa69fe7e-8b54-4088-b2e9-18901263b56b)
-    (at 399.387 251.139)
+    (at 207.787 64.31)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11567,7 +11571,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp ab076c66-63b3-4461-aecb-2c32becd4e2c)
-    (at 238.732 310.014)
+    (at 207.01 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11636,7 +11640,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp ac80bdb9-27e9-42bf-8e57-7232b71d4f29)
-    (at 299.332 269.614)
+    (at 226.06 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11705,7 +11709,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp ad416374-9add-448a-8a75-77c15d55a9b6)
-    (at 416.772 237.739)
+    (at 225.172 50.91)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11777,7 +11781,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp ae17f3b4-aa92-4390-b5f6-bb99ea16b9c1)
-    (at 410.977 214.289)
+    (at 219.377 27.46)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11849,7 +11853,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp ae771c34-36b9-4f4f-99e2-8a52ee8fa75d)
-    (at 370.412 251.139)
+    (at 178.812 64.31)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11921,7 +11925,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp aeb0b89a-30d3-498e-86f0-98c1771b8ad4)
-    (at 218.532 188.814)
+    (at 226.06 106.299)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12059,7 +12063,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp af4e0cd9-85b6-4957-ad4a-945eb4ab877b)
-    (at 299.332 350.414)
+    (at 340.36 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12128,7 +12132,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp b004128f-7397-4790-8f3b-cb148f29fb7b)
-    (at 405.182 220.989)
+    (at 213.582 34.16)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12200,7 +12204,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp b050a5aa-229c-4cf6-bf61-0fbea349a10b)
-    (at 376.207 220.989)
+    (at 184.607 34.16)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12272,7 +12276,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp b1402683-f81a-4232-b0d9-63ceee147a0d)
-    (at 416.772 214.289)
+    (at 225.172 27.46)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12344,7 +12348,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp b259ec70-50bb-4031-8791-3c08f4dff636)
-    (at 399.387 217.639)
+    (at 207.787 30.81)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12416,7 +12420,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp b39efc65-20bf-4f84-b0da-537d0c4d22e2)
-    (at 393.592 210.939)
+    (at 201.992 24.11)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12488,7 +12492,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp b6bc165e-69a8-4025-b722-ab24b1b9ca4f)
-    (at 405.182 241.089)
+    (at 213.582 54.26)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12560,7 +12564,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp b763be11-8cbe-40c0-9d6b-4ca15ddd5f61)
-    (at 238.732 390.814)
+    (at 321.31 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12629,7 +12633,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp b774afc7-e23a-43fb-9d40-4fa554b0da07)
-    (at 339.732 209.014)
+    (at 378.46 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12767,7 +12771,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp ba1f1345-af78-4721-9875-338af27a114d)
-    (at 370.412 247.789)
+    (at 178.812 60.96)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12839,7 +12843,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp baa42466-7503-4674-8e59-d53692e2c23d)
-    (at 399.387 227.689)
+    (at 207.787 40.86)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12911,7 +12915,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp bac6982c-b0a9-418a-8a11-7822e6dbb34d)
-    (at 387.797 231.039)
+    (at 196.197 44.21)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12983,7 +12987,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp bb5e3bad-5a2d-4df5-a6d4-60567eafbc48)
-    (at 319.532 310.014)
+    (at 168.91 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13052,7 +13056,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp bb7e2372-a066-44f0-ac86-e95f9bf14639)
-    (at 405.182 244.439)
+    (at 213.582 57.61)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13124,7 +13128,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp bc524018-0ffe-4352-ae84-ae6e83c86031)
-    (at 258.932 310.014)
+    (at 111.76 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13193,7 +13197,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp bd7b54b1-0c90-47f3-a4da-9d100995f24e)
-    (at 399.387 247.789)
+    (at 207.787 60.96)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13265,7 +13269,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp bde5a234-bc66-4a15-99d7-e4828aba064f)
-    (at 399.387 241.089)
+    (at 207.787 54.26)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13406,7 +13410,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp bed13d66-8013-47d0-a626-d4f8bc68c166)
-    (at 382.002 244.439)
+    (at 190.402 57.61)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13478,7 +13482,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp befd75d7-a79a-43dd-963a-aea9ef9af63f)
-    (at 376.207 231.039)
+    (at 184.607 44.21)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13550,7 +13554,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp bf5ca156-c6b0-4da5-9742-1adccb87cfe4)
-    (at 258.932 188.814)
+    (at 378.46 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13619,7 +13623,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp c0107e82-630f-484e-984c-b203f0e2583c)
-    (at 218.532 370.614)
+    (at 397.51 106.299)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13688,7 +13692,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c0182bc7-7dfd-47f4-b9c0-6cc662dd1d95)
-    (at 416.772 224.339)
+    (at 225.172 37.51)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13760,7 +13764,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c23a45d0-e3a7-4e45-a275-5cf49cb162c4)
-    (at 405.182 224.339)
+    (at 213.582 37.51)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13832,7 +13836,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c2618e6a-161c-4c94-a325-230c5dd25340)
-    (at 376.207 214.289)
+    (at 184.607 27.46)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13904,7 +13908,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c2db1faf-fcd6-492a-86f2-41a3fd7c15b3)
-    (at 416.772 244.439)
+    (at 225.172 57.61)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13976,7 +13980,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c2f09cfd-a964-4908-bd9e-a1ab4d6f3046)
-    (at 387.797 251.139)
+    (at 196.197 64.31)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14048,7 +14052,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c34243ad-0e91-45d4-8681-da5504b809eb)
-    (at 410.977 217.639)
+    (at 219.377 30.81)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14120,7 +14124,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c409ea36-2fc5-4dc8-b82e-20373a9548f9)
-    (at 376.207 224.339)
+    (at 184.607 37.51)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14192,7 +14196,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c4752dc0-e65d-430b-9606-b64c30d01b54)
-    (at 405.182 227.689)
+    (at 213.582 40.86)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14264,7 +14268,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp c5239dab-0eb7-4e2d-97e5-58f34d66ca19)
-    (at 258.932 249.414)
+    (at 54.61 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14333,7 +14337,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB" (layer "F.Cu")
     (tstamp c64f20dc-46d9-4aff-947d-8aee4448ee86)
-    (at 389.657 169.254)
+    (at 292.735 125.352)
     (descr "Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 2.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14406,7 +14410,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp c67a15f9-20b9-491e-bbe8-c300647f0743)
-    (at 339.732 350.414)
+    (at 264.16 201.549)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14475,7 +14479,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c67c7485-80d0-4c47-a22f-40d878c56972)
-    (at 410.977 207.589)
+    (at 219.377 20.76)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14547,7 +14551,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c8937bab-ea2f-446c-b656-6e86a75adbb7)
-    (at 382.002 210.939)
+    (at 190.402 24.11)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14619,7 +14623,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp ca0948f8-d28c-4b44-a48f-9f6d1866aeb0)
-    (at 370.412 210.939)
+    (at 178.812 24.11)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14691,7 +14695,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp cb132ced-3cd0-4a78-9d93-b2b9ff48214e)
-    (at 405.182 237.739)
+    (at 213.582 50.91)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14763,7 +14767,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp cbc585fc-334c-4c55-b927-27a4b9339f74)
-    (at 319.532 229.214)
+    (at 92.71 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14832,7 +14836,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB" (layer "F.Cu")
     (tstamp ccd2e850-5b45-4b0d-8ba7-dadbfe9be4aa)
-    (at 389.657 148.414)
+    (at 292.735 144.399)
     (descr "Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 2.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14905,7 +14909,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp cdcf4c8d-a1a6-435f-a25f-cc3113091d53)
-    (at 218.532 168.614)
+    (at 207.01 106.299)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15112,7 +15116,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp d1ad669f-56cb-4b1c-b5c8-055f77a11703)
-    (at 279.132 390.814)
+    (at 92.71 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15181,7 +15185,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp d1d7b6b2-a799-4b5b-813e-7d9eac90a92e)
-    (at 319.532 148.414)
+    (at 397.51 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15250,7 +15254,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp d246a01a-e262-4e45-8961-b1303dea4838)
-    (at 416.772 251.139)
+    (at 225.172 64.31)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15322,7 +15326,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp d6642878-7dc2-4de8-ae65-bc8b2b8f6598)
-    (at 399.387 224.339)
+    (at 207.787 37.51)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15394,7 +15398,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp d86ee0d6-322f-46e4-97c7-1cbc5af21a09)
-    (at 382.002 220.989)
+    (at 190.402 34.16)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15466,7 +15470,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp db45e1ba-3115-4a2d-b257-84eda33307b5)
-    (at 376.207 241.089)
+    (at 184.607 54.26)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15538,7 +15542,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp dda4386b-aa74-4b82-9a7f-a26b7ece0009)
-    (at 382.002 234.389)
+    (at 190.402 47.56)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15610,7 +15614,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp df42f41c-5eb7-4f41-93b2-74aa7f1ba905)
-    (at 370.412 220.989)
+    (at 178.812 34.16)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15682,7 +15686,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp df6ce92f-77ec-4df3-a12d-3ab9420d3f82)
-    (at 359.932 168.614)
+    (at 340.36 201.549)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15751,7 +15755,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp dff21ad3-bbfd-44fc-90fb-3db6c25ede1a)
-    (at 410.977 210.939)
+    (at 219.377 24.11)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15823,7 +15827,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e21a485c-2907-45f1-8452-fca361747752)
-    (at 416.772 210.939)
+    (at 225.172 24.11)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15895,7 +15899,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp e343b25c-3285-4dc9-b72e-45736cb6f883)
-    (at 339.732 188.814)
+    (at 359.41 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15964,7 +15968,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e36ffa81-d005-441b-9e80-c4130ca02f3b)
-    (at 405.182 234.389)
+    (at 213.582 47.56)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -16036,7 +16040,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp e57a29ad-4c57-46dc-8c5a-6a4e8c607fff)
-    (at 339.732 390.814)
+    (at 302.26 201.549)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -16105,7 +16109,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e61068ac-15ae-420e-8bfc-c59d8931f6da)
-    (at 387.797 237.739)
+    (at 196.197 50.91)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -16177,7 +16181,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp e6bdd4c5-f36b-428e-83d2-e67107ff13fe)
-    (at 238.732 229.214)
+    (at 130.81 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -16246,7 +16250,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e7fffd44-6174-42bf-8ee9-5f755b116949)
-    (at 382.002 241.089)
+    (at 190.402 54.26)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -16456,7 +16460,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp e974d88a-b239-442c-9c3b-7831b2497ab5)
-    (at 319.532 350.414)
+    (at 207.01 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -16525,7 +16529,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp e9778ca1-9fd3-4453-aa07-7ee6fbffec23)
-    (at 218.532 148.414)
+    (at 187.96 106.299)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -16594,7 +16598,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp eb336f99-242f-45dd-beb9-f10ed0be78b0)
-    (at 319.532 269.614)
+    (at 130.81 182.499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -16663,7 +16667,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp edb23f37-b984-4761-b11e-b3f51f83bc2d)
-    (at 405.182 210.939)
+    (at 213.582 24.11)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -16735,7 +16739,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp eede4ad5-8302-4f16-82bf-8ee33ea16c2e)
-    (at 387.797 227.689)
+    (at 196.197 40.86)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -16807,7 +16811,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp eee8e9cd-d42b-48b3-bc27-53b05b1909b8)
-    (at 416.772 220.989)
+    (at 225.172 34.16)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -16879,7 +16883,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp ef659ad6-27c7-482a-ace6-5006be307e09)
-    (at 218.532 330.214)
+    (at 359.41 106.299)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -16948,7 +16952,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp ef938cc8-e993-41e0-b1f5-2327e4eb43bf)
-    (at 279.132 269.614)
+    (at 359.41 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17017,7 +17021,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp f03e7d86-09b3-4c5a-a244-df4a9b3d6db7)
-    (at 258.932 229.214)
+    (at 35.56 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17086,7 +17090,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp f0428ed8-03ab-44ef-820b-ca56b0d12e64)
-    (at 299.332 168.614)
+    (at 130.81 163.442)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17155,7 +17159,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp f29721c7-16f5-4ac1-9d86-856642c6fea8)
-    (at 238.732 269.614)
+    (at 168.91 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17224,7 +17228,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp f29ce756-af75-4398-b261-7708af86f4aa)
-    (at 258.932 269.614)
+    (at 73.66 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17293,7 +17297,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp f351bab6-396c-493e-a8a6-ac17dcc836c1)
-    (at 416.772 231.039)
+    (at 225.172 44.21)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17365,7 +17369,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp f452e29a-220b-461e-8a7b-e9421471a77e)
-    (at 376.207 244.439)
+    (at 184.607 57.61)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17506,7 +17510,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp f67feebb-5ff0-48a6-89e6-0b4dfd694d42)
-    (at 299.332 330.214)
+    (at 321.31 163.449)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17575,7 +17579,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp f76a0c04-65fe-4267-9b09-d1a1bb944361)
-    (at 238.732 370.614)
+    (at 264.16 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17713,7 +17717,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp f873b2c9-45b2-4b10-86bf-fd52938b7a38)
-    (at 393.592 247.789)
+    (at 201.992 60.96)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17785,7 +17789,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp f87482f4-8331-43b2-a344-09712a7c8580)
-    (at 410.977 247.789)
+    (at 219.377 60.96)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17857,7 +17861,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp fb282295-1508-434a-a83a-984dde95652b)
-    (at 238.732 168.614)
+    (at 73.66 125.349)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17926,7 +17930,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp fb635531-5503-4a71-8ed3-f9517e7d365e)
-    (at 258.932 289.814)
+    (at 92.71 144.399)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17995,7 +17999,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tstamp fd9a2093-3626-400c-94c1-d748f5425570)
-    (at 218.532 229.214)
+    (at 264.16 106.299)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "AllinOne.kicad_sch")
