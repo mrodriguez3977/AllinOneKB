@@ -1897,7 +1897,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 112f260c-f463-46c2-878e-694203e541a8)
-    (at 208.74 245.031 90)
+    (at 212.852 188.722 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2398,7 +2398,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 153b4a0f-7cff-4d9e-966c-72b44ed85b00)
-    (at 215.44 245.031 90)
+    (at 262.001 188.722 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -2470,7 +2470,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 16ac8ecb-ee62-46a9-9773-74c6475b0f78)
-    (at 222.14 245.031 90)
+    (at 346.202 188.722 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -3385,7 +3385,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 222e04a4-7ead-4478-8412-d90f2b46adb6)
-    (at 225.49 245.031 90)
+    (at 365.252 188.722 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4238,7 +4238,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 330abb6b-b9ab-407a-bed7-2558f256df2b)
-    (at 228.84 250.826 90)
+    (at 60.452 188.721 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -4661,7 +4661,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 39735bc5-950b-4a75-b905-772fc413bb75)
-    (at 232.19 245.031 90)
+    (at 403.352 188.722 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -6419,7 +6419,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 534bc3b0-772a-4124-8ef5-732af7a40043)
-    (at 205.39 245.031 90)
+    (at 193.802 188.722 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7197,7 +7197,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 5de24f19-13e1-4a5d-a588-0480456eec29)
-    (at 212.09 250.826 90)
+    (at 346.202 169.671 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7758,7 +7758,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 662f30f9-eb48-4f60-a5f2-0ecf37ffa203)
-    (at 212.09 245.031 90)
+    (at 231.902 188.722 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -7830,7 +7830,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 66664b5c-a047-4cd0-bf25-8438e8c0ac27)
-    (at 202.04 245.031 90)
+    (at 174.752 188.722 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -8040,7 +8040,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 6abf3006-d331-4e28-a464-186a2d2779dc)
-    (at 232.19 250.826 90)
+    (at 79.502 188.721 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9024,7 +9024,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 7e54e646-1156-4be4-b871-788415d3356e)
-    (at 208.74 239.236 90)
+    (at 270.002 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -9096,7 +9096,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 7fd6b480-b48f-4078-95c7-08a4c7c6049b)
-    (at 222.14 239.236 90)
+    (at 346.202 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10014,7 +10014,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 92491d2c-459f-4faf-85f4-ad3b0e4041fc)
-    (at 188.64 239.236 90)
+    (at 41.402 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10647,7 +10647,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a04f402a-4918-4c0f-8694-5948d3a384cf)
-    (at 218.79 245.031 90)
+    (at 308.102 188.722 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10863,7 +10863,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a2857d4d-670d-428b-945d-11f2cace99fc)
-    (at 228.84 239.236 90)
+    (at 384.302 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -10935,7 +10935,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a2d72219-e16e-4053-9c32-b2a9761c87ae)
-    (at 198.69 239.236 90)
+    (at 155.829 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11007,7 +11007,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a2eea1c0-1fdd-474c-86c7-40d1631673fb)
-    (at 215.44 239.236 90)
+    (at 308.102 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11709,7 +11709,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp ad416374-9add-448a-8a75-77c15d55a9b6)
-    (at 218.79 239.236 90)
+    (at 327.152 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -11781,7 +11781,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp ae17f3b4-aa92-4390-b5f6-bb99ea16b9c1)
-    (at 195.34 245.031 90)
+    (at 136.652 188.722 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12276,7 +12276,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp b1402683-f81a-4232-b0d9-63ceee147a0d)
-    (at 195.34 239.236 90)
+    (at 79.502 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -12492,7 +12492,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp b6bc165e-69a8-4025-b722-ab24b1b9ca4f)
-    (at 222.14 250.826 90)
+    (at 403.352 169.671 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13056,7 +13056,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp bb7e2372-a066-44f0-ac86-e95f9bf14639)
-    (at 225.49 250.826 90)
+    (at 41.402 188.721 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13692,7 +13692,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c0182bc7-7dfd-47f4-b9c0-6cc662dd1d95)
-    (at 205.39 239.236 90)
+    (at 250.952 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -13908,7 +13908,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c2db1faf-fcd6-492a-86f2-41a3fd7c15b3)
-    (at 225.49 239.236 90)
+    (at 365.252 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14052,7 +14052,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c34243ad-0e91-45d4-8681-da5504b809eb)
-    (at 198.69 245.031 90)
+    (at 155.702 188.722 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14479,7 +14479,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c67c7485-80d0-4c47-a22f-40d878c56972)
-    (at 188.64 245.031 90)
+    (at 98.552 188.721 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -14695,7 +14695,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp cb132ced-3cd0-4a78-9d93-b2b9ff48214e)
-    (at 218.79 250.826 90)
+    (at 384.302 169.671 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15250,7 +15250,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp d246a01a-e262-4e45-8961-b1303dea4838)
-    (at 232.19 239.236 90)
+    (at 403.352 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15751,7 +15751,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp dff21ad3-bbfd-44fc-90fb-3db6c25ede1a)
-    (at 191.99 245.031 90)
+    (at 117.602 188.721 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15823,7 +15823,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e21a485c-2907-45f1-8452-fca361747752)
-    (at 191.99 239.236 90)
+    (at 60.452 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -15964,7 +15964,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e36ffa81-d005-441b-9e80-c4130ca02f3b)
-    (at 215.44 250.826 90)
+    (at 365.252 169.671 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -16807,7 +16807,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp eee8e9cd-d42b-48b3-bc27-53b05b1909b8)
-    (at 202.04 239.236 90)
+    (at 231.902 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17293,7 +17293,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp f351bab6-396c-493e-a8a6-ac17dcc836c1)
-    (at 212.09 239.236 90)
+    (at 289.052 207.772 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
@@ -17785,7 +17785,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp f87482f4-8331-43b2-a344-09712a7c8580)
-    (at 228.84 245.031 90)
+    (at 384.302 188.722 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "AllinOne.kicad_sch")
